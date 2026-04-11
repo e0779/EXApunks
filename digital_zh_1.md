@@ -1,6 +1,11 @@
-# TRASH WORLD NEWS
+<p align="center">TRASH WORLD</p>
+<font size="5"> NEWS </font></center>
+
+
 **地下计算机杂志**
 > 第1期 1997年10月
+
+期刊<font size="6">**EXA**</font>期
 
 ## 目录
 ### 宣言
